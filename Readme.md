@@ -2,10 +2,7 @@
 
 ## Student Details
 
- Name: Sadineni Jyothsna
- Roll Number:7
- Branch: CSM
- Section: 4
+ Name: Sadineni Jyothsna   Roll Number:7Branch: CSMSection: 4
 
 ## About the Project
 
