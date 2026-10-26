@@ -1,8 +1,12 @@
+
 # Web Development Activity-Based Learning
 
 ## Student Details
 
- Name: Sadineni Jyothsna   Roll Number:7Branch: CSMSection: 4
+ Name: Sadineni Jyothsna  
+ Roll Number: 26001109
+ Branch: CSM 
+ Section: 4
 
 ## About the Project
 
