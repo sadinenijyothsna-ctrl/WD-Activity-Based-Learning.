@@ -1,44 +1,54 @@
+# Web Development Activity-Based Learning
 
-# Web Development Activity
+## Student Details
+
+ Name: Sadineni Jyothsna
+ Roll Number:7
+ Branch: CSM
+ Section: 4
 
 ## About the Project
-This project contains three simple websites developed using HTML and CSS as part of the Web Development Activity-Based Learning assignment.
 
-## Projects
+This project is created as part of the Web Development Activity-Based Learning assignment. It contains three simple websites developed using HTML and CSS.
+
+## Projects Included
 
 ### 1. Online Shopping Website
-- Displays different products and their prices.
-- Includes product cards, offers, and discounts.
-- Uses an attractive design and navigation menu.
+- Displays products and prices.
+- Shows product details and discounts.
+- Uses an attractive design and product cards.
 
 ### 2. Bakery Website
-- Displays cakes, cookies, donuts, and other bakery items.
-- Shows product prices and order buttons.
-- Includes bakery details and contact information.
+- Displays cakes, cookies, pastries, and other bakery items.
+- Shows product prices.
+- Includes an attractive design and contact details.
 
 ### 3. Food Ordering Website
-- Displays food items and menu details.
-- Includes prices, offers, and order buttons.
-- Uses a simple and attractive layout.
+- Displays food items and prices.
+- Includes restaurant details and food categories.
+- Provides order buttons and an attractive layout.
 
 ## Technologies Used
+
 - HTML
 - CSS
 
-## Features
-- Simple and user-friendly design.
-- Attractive colours and layouts.
-- Product and food cards.
-- Responsive design for different screen sizes.
+## Software Used
 
-## How to Run
+- Visual Studio Code
+- Web Browser
+- GitHub
+
+## How to Run the Projects
+
 1. Download or clone this repository.
-2. Open the project folder in Visual Studio Code.
+2. Open the project files in Visual Studio Code.
 3. Open the required HTML file in a web browser.
-4. Explore the website.
+4. View the website.
 
-## Project Purpose
-The purpose of this project is to practise basic HTML and CSS and learn how to design webpages.
+## Conclusion
 
-## Author
-Jyothsna
+This activity helped me understand the basics of HTML and CSS and learn how to design simple, attractive web pages.
+
+
+
